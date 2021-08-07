@@ -1,0 +1,8 @@
+Q) descreva brevemente o processo apresentado na figura 
+
+Podemos escrever testes funcionais e de unidade de forma paralela. Caso estejamos escrevendo um teste 
+funcional, a lógica é escrever o teste, rodar o teste e verificar se falha, avaliaremos então os testes
+de unidade, que consistem em escrever o teste, rodar o teste e verificar se falha. Se falhar, escrevemos algum código da aplicação, 
+rodamos o teste novamente e repetimos até passar. Adicionalmente, podemos refatorar nosso código, utilizando sempre o 
+teste para garantir que não quebramos nada. O mesmo se aplica para o teste de sistema, mas nesse caso se houver
+necessidade de refatoração primeiro temos que avaliar a nivel dos testes unitários.
