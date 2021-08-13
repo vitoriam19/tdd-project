@@ -1,7 +1,0 @@
-Quais outras diferenças existem entre Testes Funcionais e Testes de Unidade?
-
-Os testes de unidade informam ao desenvolvedor se o código está fazendo as coisas corretamente,
-enquanto os testes funcionais informam ao desenvolvedor se o código está fazendo as coisas certas.
-
-Os testes de unidade são escritos da perspectiva de um programador enquanto os testes funcionais 
-são escritos da perspectiva do usuário.
